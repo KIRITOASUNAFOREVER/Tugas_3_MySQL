@@ -10,7 +10,7 @@
 ### 2. Bagaimana cara untuk mengakses XAMPP Panel?
 Start -> All Programs -> XAMPP -> XAMPP Control Panel.
 
-![xampp](xampp.png)
+![xampp](xampp.PNG)
 
 ### 3. Module apa yang harus diaktifkan untuk menjalankan MYSQL Server?
 Mengaktifkan module MySQL dengan melakukan Start pada Action (dapat dilihat gambar diatas)
