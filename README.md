@@ -18,9 +18,9 @@ Mengaktifkan module MySQL dengan melakukan Start pada Action (dapat dilihat gamb
 ### 4. Bagaimana cara menjalankan PHPMyAdmin di browser?
 Aktifkan modul Apache dan MySQL (dapat dilihat pada gambar), kemudian buka browser dan ketik alamat http://localhost/phpmyadmin di address bar.
 
-![xampp](xampp.png)
+![xampp](xampp.PNG)
 
-![phpmyadmin](phpmyadmin.png)
+![phpmyadmin](phpmyadmin.PNG)
 
 ### 5. Bagaimana menjalankan MYSQL Client?
 Pastikan module MySQL sudah aktif (MySQL Server sudah berjalan)
